@@ -393,7 +393,7 @@ footer {
     }
 
     ul {
-        font-size: 14px;
+        gap: 14px;
     }
 
     details[open]::details-content {
